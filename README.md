@@ -22,6 +22,8 @@ Analyzing Employee Satisfaction of Government Organization
 
 This data analysis project aims to provide insight in a government organization about employee satisfaction. Analyzing the employee engagement in different department of the organization and drawing out patterns or trends in other to gain insight into the employee’s mind.
 
+![Github employee](https://github.com/user-attachments/assets/19ab11e7-943c-4c1b-bbce-dc3b887187e5)
+
 ### Data Sources
 
 The primary dataset used for this analysis is the “Employee survey Dataset” containing detailed information about different aspect of the Organization.
